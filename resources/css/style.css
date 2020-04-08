@@ -1,0 +1,46 @@
+
+/* ==========================
+  1. HEADER AREA
+============================== */
+.nav-link I {
+  font-size: 200%;
+}
+/* ==========================
+  2.ABOUT US
+============================== */
+.navbar {
+  background: #563D7C;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: .5em;
+  padding-left: 0.5em;
+  background: #563D7C;
+  color: #fff;
+  }
+  /* ==========================
+    3.FOOTER
+  ============================== */
+.footer {
+  padding: 80px 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  color: #fff;
+}
+.grid-footer-items {
+  margin: 10px;
+  padding: 10px;
+  margin: auto;
+}
+.grid-footer-items a {
+  text-decoration: none;
+  display: block;
+  color: #fff;
+}
+.copy-right {
+padding: 30px 0;
+text-align: center;
+color: #fff;
+}
+.social-icon {
+  font-size: 140%;
+}

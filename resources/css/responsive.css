@@ -1,0 +1,10 @@
+@media screen and (max-width: 768px) {
+  .footer {
+    grid-template-columns: 1fr 1fr;
+    padding: 30px 0;
+    margin:auto;
+  }
+  .registration h4 {
+    font-size: 180%;
+  }
+}
